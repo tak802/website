@@ -1,6 +1,4 @@
 # my-website
 demo website
 
-making some changes
-
-again. example branch
+updates made on master on github.com
